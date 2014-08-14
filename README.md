@@ -7,6 +7,8 @@ Biemc is short for "Bioinformatic is even more complex", which was a frequently 
 The meaning of this project is to create a Bioinformatics toolbox, which unites many different functions. As we will implemt these 
 functions bit by bit, our project might be considered a bottom-up approach. Thus it is also possible, that we will have 
 to start anew from time to time. But bear in mind, that this is only a project. 
+And by the way this project will be mostly written in Java, since we will have a lab course in Spring 2015, where we will
+also have to write a little project in Java. And as you know: A bit pratice never hurts anyone.
 
 Project goals
 -------------
