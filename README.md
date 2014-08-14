@@ -16,4 +16,5 @@ Current Project goals
 3. Implement some classes for common Bioinformatical entities like sequences
 4. Implement a Parser for the FASTA-format
 5. Get the implementations working together in a proper manner
+
 (Optional) Create a version of Biemc for Android. Because as you know: Everbody loves Android Apps!
