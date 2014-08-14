@@ -32,9 +32,3 @@ Basic Usage
 ----------
 
 Comming soon
-
-
-Maintainers
------------
-
-[@David-J-R][David-J-R]
