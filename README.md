@@ -8,8 +8,8 @@ The meaning of this project is to create a Bioinformatics toolbox, which unites 
 And by the way this project will be mostly written in Java, since we will have a lab course in Spring 2015, where we will
 also have to write a little project in Java. And as you know: A bit pratice never hurts anyone.
 
-Project goals
--------------
+Current Project goals
+---------------------
 
 1. Implement the Smith-Waterman-Algorithm
 2. Create a GUI for it
